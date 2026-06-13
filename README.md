@@ -73,9 +73,9 @@ Only verified laboratory marks are presented here. No final module mark is claim
 - [x] Portfolio structure and laboratory summaries
 - [x] Reproducible MATLAB scripts
 - [x] Verified laboratory marks
-- [ ] Replace each placeholder `report.pdf` with the corresponding final submitted report
-- [ ] Add selected, anonymised MATLAB plots to the [plot gallery](results/matlab-plot-gallery.md)
-- [ ] Complete the personal TODO prompts in the lab summaries and reflections
+- [x] Replace each placeholder `report.pdf` with the corresponding final submitted report
+- [x] Add selected, anonymised MATLAB plots to the [plot gallery](results/matlab-plot-gallery.md)
+- [x] Complete the personal TODO prompts in the lab summaries and reflections
 
 Before publishing any report, I will remove student numbers, contact information, other students' details, private metadata, lecturer-only material, and institutional question sheets.
 
